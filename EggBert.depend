@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1556377934 source:/home/yupipi93/Escritorio/EggBert/main.cpp
+	<SFML/Graphics.hpp>
+	"Game.h"
+
+1556032711 /home/yupipi93/Escritorio/EggBert/include/Game.h
+	<SFML/Graphics.hpp>
+	<Level.h>
+	<Map.h>
+	<Player.h>
+
+1556403065 /home/yupipi93/Escritorio/EggBert/include/Level.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<Player.h>
+	<sstream>
+	<iostream>
+
+1556218384 /home/yupipi93/Escritorio/EggBert/include/Player.h
+	<SFML/Graphics.hpp>
+	<Map.h>
+	<iostream>
+
+1556029760 /home/yupipi93/Escritorio/EggBert/include/Map.h
+	<SFML/Graphics.hpp>
+	<Level.h>
+	<vector>
+	<iostream>
+
+1556377498 source:/home/yupipi93/Escritorio/EggBert/src/Game.cpp
+	"Game.h"
+	<iostream>
+	<stdio.h>
+
+1556224410 source:/home/yupipi93/Escritorio/EggBert/src/Player.cpp
+	"Player.h"
+
+1556404569 source:/home/yupipi93/Escritorio/EggBert/src/Level.cpp
+	"Level.h"
+
+1556404169 source:/home/yupipi93/Escritorio/EggBert/src/Map.cpp
+	"Map.h"
+
